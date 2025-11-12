@@ -5538,3 +5538,15 @@
 		font-size: var(--e-global-typography-text-font-size);
 	}
 }
+
+
+.elementor-element-3156dc89{
+    .image-box-header {
+        width: 405px !important;
+        height: 280px !important;
+		img{
+			width: 100% !important;
+			height: 100% !important;
+		}
+    }
+}
